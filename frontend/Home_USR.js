@@ -51,6 +51,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Evento para entrar na sala
     socket.emit('joinRoom', data.user, data.roomId);
+    // Caso de erro se receber on('roomNotExists') - Caberia um try-catch? 
 
     const sendButton = document.getElementById('sendButton');
     sendButton.style.display = "none";
