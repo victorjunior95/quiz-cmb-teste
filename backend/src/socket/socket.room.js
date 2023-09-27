@@ -1,5 +1,10 @@
 const userUtils = require('../utils/users');
 
+const createRoom = (socket) => (room) => {
+  userUtils.userWriteNewData(room, { users: [], answered: [] });
+  socket.join(room);
+}
+
 const joinRoom = (socket) => (schoolName, roomId) => {
   const rooms = userUtils.userRead();
   if(!rooms[roomId]) {
@@ -27,5 +32,6 @@ const joinRoom = (socket) => (schoolName, roomId) => {
 }
 
 module.exports = {
+  createRoom,
   joinRoom,
 }

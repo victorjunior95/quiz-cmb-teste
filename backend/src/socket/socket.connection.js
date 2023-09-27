@@ -5,6 +5,7 @@ const game = require('./socket.game.js');
 
 const connection = (socket) => {
   // Room events
+  socket.on('createRoom', room.createRoom(socket));
   socket.on('joinRoom', room.joinRoom(socket));
 
   // Game events
