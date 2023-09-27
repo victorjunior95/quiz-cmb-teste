@@ -165,10 +165,23 @@ img {
   font-weight: bold;
   cursor: pointer;
   background-color: transparent;
-  margin-top: 20px;
+  margin: 20px 5px 0px;
 }
 
 .botaoAvancar:hover {
+  color: #0896a3;
+}
+
+.botaoClassification {
+  border: none;
+  color: #0AABBA;
+  font-weight: bold;
+  cursor: pointer;
+  background-color: transparent;
+  margin: 20px 5px 0px;
+}
+
+.botaoClassification:hover {
   color: #0896a3;
 }
 
