@@ -1,4 +1,5 @@
-const socket = io('https://quiz-cmb-production-e86e.up.railway.app');
+const BASE_URL = 'http://localhost:3001';
+const socket = io(BASE_URL);
 
 const main = () => {
   startGame()

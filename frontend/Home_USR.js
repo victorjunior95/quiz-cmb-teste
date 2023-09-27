@@ -35,7 +35,6 @@ const main = () => {
       roomId: inputRoomValue
     };
 
-    // Pra quê?
     localStorage.setItem("roomData", JSON.stringify(data));
 
     // Evento para entrar na sala
