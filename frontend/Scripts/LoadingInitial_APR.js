@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:3001';
+const BASE_URL = 'https://quiz-cmb-teste-production.up.railway.app';
 const ROOMID = localStorage.getItem("roomId");
 
 fetch(`${BASE_URL}/quiz`)

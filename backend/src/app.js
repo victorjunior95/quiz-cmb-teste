@@ -44,10 +44,6 @@ app.get('/quiz', (_req, res) => {
   return res.status(200).json(jsonData);
 });
 
-try {
-  io.on('connection', connection);
-} catch (error) {
-  console.log(error);
-}
+io.on('connection', connection);
 
 module.exports = server;
