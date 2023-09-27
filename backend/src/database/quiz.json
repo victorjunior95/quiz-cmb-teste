@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "tema": "Biologia",
+    "pergunta": "Qual é a característica principal da fase seguinte à mostrada na figura?",
+    "alternativas": [
+      "A) separação dos cromossomos homólogos.",
+      "B) condensação dos cromossomos",
+      "C) alinhamento dos cromossomos na placa equatorial.",
+      "D) separação das cromátides-irmãs.",
+      "E) desaparecimento da carioteca."
+    ],
+    "reposta": "D",
+    "descricao": "A fase mostrada na figura é metáfase; a fase seguinte é a anáfase, cuja característica principal é a separação das cromátides-irmãs.",
+    "imgPergunta": "https://guiadoestudante.abril.com.br/wp-content/uploads/sites/4/2016/10/metafase-mitose-divisao-celular.jpg?quality=100&strip=info&w=550",
+    "imgResposta": ""
+  },
+  {
+    "id": 2,
+    "tema": "Biologia",
+    "pergunta": "Qual o componente nutricional presente no ovo, que é muito procurado pelos frequentadores de academia?",
+    "alternativas": [
+      "A) proteína",
+      "B) lipídeos",
+      "C) calorias",
+      "D) carboidratos",
+      "E) vitaminas"
+    ],
+    "reposta": "A",
+    "descricao": "O ovo é importante por ter a clara rica em proteínas, as quais fortalecem os músculos e favorecem o crescimento.",
+    "imgPergunta": "",
+    "imgResposta": ""
+  },
+  {
+    "id": 3,
+    "tema": "Biologia",
+    "pergunta": "Qual composto não é fonte de energia para o ser humano?",
+    "alternativas": [
+      "A) glicose",
+      "B) amido",
+      "C) glicogênio",
+      "D) celulose",
+      "E) frutose"
+    ],
+    "reposta": "D",
+    "descricao": "Apesar de ser constituído de monômeros de glicose ligados entre si, a celulose só é aproveitada por alguns animais que possuem associação com micro-organismos em seus tratos digestivos. Esses microrganismos produzem a celulase, capaz de metabolizar esse polímero.",
+    "imgPergunta": "",
+    "imgResposta": ""
+  },
+  {
+    "id": 4,
+    "tema": "Biologia",
+    "pergunta": "A qual filo pertence o animal da imagem?",
+    "alternativas": [
+      "A) aracnida",
+      "B) artrópoda",
+      "C) insecta",
+      "D) quilópoda",
+      "E) animalia"
+    ],
+    "reposta": "B",
+    "descricao": "As aranhas pertencem ao filo Artrópoda, classe Arachnida, ordem Araneae, constituindo um dos maiores grupos animais no que diz respeito à sua diversidade, existindo mais de 12 mil espécies só no Brasil.",
+    "imgPergunta": "https://static.mundoeducacao.uol.com.br/mundoeducacao/2023/05/1-aranha-marrom.jpg",
+    "imgResposta": ""
+  },
+  {
+    "id": 5,
+    "tema": "Biologia",
+    "pergunta": "Qual é a relação ecológica pela qual certos seres vivos se utilizam de outros como meio de locomoção?",
+    "alternativas": [
+      "A) forésia",
+      "B) inquilinismo",
+      "C) comensalismo",
+      "D) caronismo",
+      "E) mutualismo"
+    ],
+    "reposta": "A",
+    "descricao": "Forésia é uma relação ecológica harmônica, em que um indivíduo se aproveita de outro para transporte, sem prejudicá-lo.",
+    "imgPergunta": "",
+    "imgResposta": ""
+  },
+  {
+    "id": 6,
+    "tema": "Biologia",
+    "pergunta": "Qual o nome que se dá à passagem de células sanguíneas, em especial os leucócitos, através das paredes dos capilares para o tecido conjuntivo?",
+    "alternativas": [
+      "A) filtração",
+      "B) osmose",
+      "C) difusão",
+      "D) diálise",
+      "E) diapedese"
+    ],
+    "reposta": "E",
+    "descricao": "Diapedese é o nome dado ao movimento de saída das células de defesa de um vaso sanguíneo para um tecido próximo. Este processo geralmente ocorre quando uma área é danificada e o processo de inflamação é necessário. Os neutrófilos e monócitos são atraídos até o local da inflamação, passando a englobar e fagocitar os agentes invasores.",
+    "imgPergunta": "",
+    "imgResposta": ""
+  },
+  {
+    "id": 7,
+    "tema": "Biologia",
+    "pergunta": "Qual mineral presente na molécula de clorofila cuja ausência em animais prejudica o crescimento e causa distúrbios comportamentais?",
+    "alternativas": [
+      "A) magnésio",
+      "B) zinco",
+      "C) cálcio",
+      "D) selênio",
+      "E) ferro"
+    ],
+    "reposta": "A",
+    "descricao": "O magnésio, além de constituir a molécula de clorofila, é um mineral essencial para o corpo humano, necessário para mais de 300 processos biológicos muito importantes, incluindo a produção de ATP e a contração muscular. Sua deficiência pode causar uma série de complicações como cãibra, fadiga, síndrome pré-menstrual, irritabilidade, insônia, perda de memória, entre outros.",
+    "imgPergunta": "",
+    "imgResposta": ""
+  },
+  {
+    "id": 8,
+    "tema": "Biologia",
+    "pergunta": "Um cuidado médico que deve ser tomado com relação à febre é não deixá-la subir muito. Sabe-se que a febre acima de 40°C pode ser fatal ao ser humano, pois ocorre modificação das enzimas do sistema nervoso central. Como a temperatura alta modifica essas enzimas?",
+    "alternativas": [
+      "A) Induzindo a modificação da sequência de aminoácidos das enzimas.",
+      "B) Induzindo a autodigestão das enzimas.",
+      "C) Quebrando as ligações covalentes das enzimas.",
+      "D) Induzindo a desnaturação das enzimas.",
+      "E) Induzindo a exocitose das enzimas."
+    ],
+    "reposta": "D",
+    "descricao": "Quando as proteínas são submetidas à elevação de temperatura, a variações de pH ou a solutos como a ureia, sofrem alterações na sua configuração espacial, e sua atividade biológica é perdida. Este processo se chama desnaturação.",
+    "imgPergunta": "",
+    "imgResposta": ""
+  },
+  {
+    "id": 9,
+    "tema": "Biologia",
+    "pergunta": "Qual a organela citoplasmática que está presente nas células bacterianas, animais e vegetais?",
+    "alternativas": [
+      "A) ribossomo",
+      "B) retículo endoplasmático",
+      "C) mitocôndria",
+      "D) lisossomo",
+      "E) vacúolo"
+    ],
+    "reposta": "A",
+    "descricao": "Dentre as organelas apresentadas, o ribossomo é o único encontrado simultaneamente nas células bacterianas, animais e vegetais",
+    "imgPergunta": "",
+    "imgResposta": ""
+  },
+  {
+    "id": 10,
+    "tema": "Biologia",
+    "pergunta": "Observando a tabela nutricional da imagem, qual é o principal produto que deveria ser evitado por alguém que tem pressão alta dentre as opções de resposta?",
+    "alternativas": [
+      "A) Requeijão",
+      "B) Meia Cura",
+      "C) Ricota",
+      "D) Minas Frescal",
+      "E) Prato"
+    ],
+    "reposta": "D",
+    "descricao": "Uma pessoa com pressão alta deve evitar consumir produtos com alto índice de sódio, que faz com que a pressão sanguínea se eleve, podendo ocasionar rompimento dos vasos sanguíneos.",
+    "imgPergunta": "https://4.bp.blogspot.com/-N0dd_xMV-Fc/WNxJlUUhMTI/AAAAAAAAHTg/L8fnTmAmFSE2NQtAMcoJBEigG07vp5A-gCLcB/s1600/00000000000000000000000000000000000000000%2Bqueijos1.png",
+    "imgResposta": ""
+  },
+  {
+    "id": 11,
+    "tema": "Biologia",
+    "pergunta": "Qual é o tipo de herança mostrada no heredograma da imagem?",
+    "alternativas": [
+      "A) autossômica dominante.",
+      "B) autossômica recessiva.",
+      "C) ligada ao X dominante.",
+      "D) ligada ao X recessiva.",
+      "E) Mitocondrial."
+    ],
+    "reposta": "C",
+    "descricao": "São características de uma herança ligada ao X dominante: a característica aparece em todas as gerações. Há mais mulheres afetadas do que homens, e filhas de pais afetados são sempre afetadas.",
+    "imgPergunta": "https://files.passeidireto.com/8a0345d1-0aa0-46f1-a2e8-4ed38ce079c3/bg1.png",
+    "imgResposta": ""
+  },
+  {
+    "id": 12,
+    "tema": "Biologia",
+    "pergunta": "A imagem é um exemplo de...",
+    "alternativas": [
+      "A) hábito alimentar",
+      "B) cadeia alimentar",
+      "C) teia alimentar",
+      "D) fila alimentar",
+      "E) comensalismo"
+    ],
+    "reposta": "B",
+    "descricao": "Cadeia alimentar é a sequência unidirecional de matéria e energia trocada entre os seres vivos através da alimentação.",
+    "imgPergunta": "https://www.coladaweb.com/wp-content/uploads/2015/01/20170111-cadeia-alimentar.jpg",
+    "imgResposta": ""
+  },
+  {
+    "id": 13,
+    "tema": "Biologia",
+    "pergunta": "Observe o cladograma da imagem. A característica evolutiva de nº 4 é o aparecimento...",
+    "alternativas": [
+      "A) do embrião",
+      "B) de vasos condutores",
+      "C) de flores e frutos",
+      "D) de sementes",
+      "E) tecidos vasculares"
+    ],
+    "reposta": "C",
+    "descricao": "A característica evolutiva de gimnospermas para angiospermas é o aparecimento de flores e frutos.",
+    "imgPergunta": "https://djalmasantos.files.wordpress.com/2011/07/286.jpg",
+    "imgResposta": ""
+  },
+  {
+    "id": 14,
+    "tema": "Biologia",
+    "pergunta": "O que é citocinina?",
+    "alternativas": [
+      "A) uma célula amorfa.",
+      "B) omponente do citoesqueleto celular.",
+      "C) uma organela celular presente apenas em vegetais.",
+      "D) hormônio vegetal responsável por estimular a divisão celular.",
+      "E) Processo de separação do citoplasma em duas células distintas, como produto final da meiose."
+    ],
+    "reposta": "D",
+    "descricao": "A citocinina é o nome de um hormônio vegetal, produzido no meristema apical da raiz, cuja função é promover a indução da divisão celular. Também atua na quebra de dormência nas sementes, na floração e no crescimento de frutos.",
+    "imgPergunta": "",
+    "imgResposta": ""
+  },
+  {
+    "id": 15,
+    "tema": "Biologia",
+    "pergunta": "Um indivíduo que possua o genótipo AaBbCCddEe produzirá quantos gametas diferentes na gametogênese?",
+    "alternativas": [
+      "A) 2",
+      "B) 4",
+      "C) 8",
+      "D) 16",
+      "E) 32"
+    ],
+    "reposta": "C",
+    "descricao": "O indivíduo citado produzirá 8 gametas diferentes.",
+    "imgPergunta": "",
+    "imgResposta": ""
+  },
+  {
+    "id": 16,
+    "tema": "Biologia",
+    "pergunta": "Os animais mostrados na imagem são um exemplo de:",
+    "alternativas": [
+      "A) divergência adaptativa",
+      "B) convergência adaptativa",
+      "C) formação adaptativa",
+      "D) mutação adaptativa",
+      "E) criação adaptativa"
+    ],
+    "reposta": "B",
+    "descricao": "Convergência adaptativa é o processo evolutivo pelo qual determinados organismos não aparentados desenvolvem estratégias adaptativas semelhantes por estarem inseridos no mesmo tipo de habitat e obedecerem aos mesmos condicionamentos ecológicos.",
+    "imgPergunta": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6mS-D04Z_EwGE2BxfCCB8rcDQitnvg3_zVg&usqp=CAU",
+    "imgResposta": ""
+  },
+  {
+    "id": 17,
+    "tema": "Biologia",
+    "pergunta": "Qual a diferença fundamental entre as teses desenvolvidas por Lamarck e Darwin quanto atuação do ambiente no papel da adaptação?",
+    "alternativas": [
+      "A) Para Lamarck o meio seleciona os mais adaptados, enquanto para Darwin o meio induz a modificação nos seres vivos.",
+      "B) Para Lamarck o meio induz a modificação nos seres vivos, enquanto para Darwin o meio seleciona os mais adaptados.",
+      "C) Para ambos, o meio incialmente seleciona e depois modifica os seres vivos para adaptá-los.",
+      "D) Para Lamarck o meio modifica e depois seleciona, enquanto para Darwin o meio seleciona e depois modifica os seres vivos.",
+      "E) Para Lamarck o meio não interfere, enquanto para Darwin o meio é responsável pela adaptação."
+    ],
+    "reposta": "B",
+    "descricao": "Para Lamarck, o meio atua induzindo as modificações nos seres vivos, as quais eram passadas aos descendentes. Para Darwin, o meio apenas seleciona as variedades preexistentes que melhor ajustem a espécie ao ambiente em que vivem.",
+    "imgPergunta": "",
+    "imgResposta": ""
+  },
+  {
+    "id": 18,
+    "tema": "Biologia",
+    "pergunta": "Aleksandr Ivanovich Oparin foi um biólogo e bioquímico russo considerado um dos precursores dos estudos sobre a origem da vida. Em 1938, publicou a hipótese de que a atmosfera da Terra seria inicialmente formada por uma mistura de gases. Qual gás que não existia inicialmente na mistura proposta por Oparin?",
+    "alternativas": [
+      "A) metano",
+      "B) amônia",
+      "C) hidrogênio",
+      "D) oxigênio",
+      "E) vapor d'água"
+    ],
+    "reposta": "D",
+    "descricao": "A mistura de gases proposta por Oparin para a atmosfera primitiva continha metano, amônia, hidrogênio e vapor d'água.",
+    "imgPergunta": "",
+    "imgResposta": ""
+  },
+  {
+    "id": 19,
+    "tema": "Biologia",
+    "pergunta": "A imagem significa...",
+    "alternativas": [
+      "A) inflamável",
+      "B) transgênico",
+      "C) radioatividade",
+      "D) alta voltagem",
+      "E) perigo"
+    ],
+    "reposta": "B",
+    "descricao": "O símbolo, encontrado em embalagens de vários produtos, indica a presença de mais de 1% de ingrediente transgênico (geralmente soja ou milho)",
+    "imgPergunta": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTjpFPXJyr_Awtx0PkqZ91ALi0qny6YgZytQ&usqp=CAU",
+    "imgResposta": ""
+  },
+  {
+    "id": 20,
+    "tema": "Biologia",
+    "pergunta": "O exame de DNA tem sido muito utilizado na ciência forense para confirmação de paternidade ou identificação de suspeitos em algum crime. Qual o material que não pode ser utilizado para o exame de DNA?",
+    "alternativas": [
+      "A) hemácias do sangue",
+      "B) células da epiderme",
+      "C) fio de cabelo com a raiz",
+      "D) esfregaço interno da bochecha",
+      "E) sêmen"
+    ],
+    "reposta": "A",
+    "descricao": "As hemácias ou glóbulos vermelhos são células anucleadas, portanto, não possuem DNA para ser comparado.",
+    "imgPergunta": "",
+    "imgResposta": ""
+  }
+]

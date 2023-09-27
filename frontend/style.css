@@ -1,0 +1,111 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+.main-login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+  background: #0AABBA;
+}
+
+.logo-login{
+  margin-bottom: 16px;
+  font-size: 50px;
+}
+
+.painel-login {
+  background-color: #fff;
+  border-radius: 10px;
+  width: 380px;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  margin-bottom: 15px;
+}
+
+.painel-teams {
+  background-color: #fff;
+  border-radius: 10px;
+  width: 380px;
+  padding: 10px;
+  display: none;
+}
+
+.painel-teams > h3 {
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.team-panel {
+  padding: 10px;
+}
+
+.textInput {
+  width: 100%;
+  padding: 15px 0;
+  outline: none;
+  border: 2px solid black;
+  border-radius: 10px;
+  color: black;
+  font-size: 16px;
+  margin-bottom: 15px;
+  text-align: center;
+  font-weight: bold;    
+}
+
+.textInput::placeholder {
+  color: #999;
+  font-weight: bold;    
+}
+
+.sendButton {
+  background: black;
+  color: white;
+  width: 100%;
+  padding: 15px 0;
+  text-decoration: none;
+  border: 2px solid black;
+  border-radius: 10px;
+  font-weight: bold;    
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.sendButton:active {
+  scale: 0.98;
+  transition-duration: 0.2s;
+}
+
+.c-loader-container {
+  display: flex;
+  flex-direction: column;
+  display: none;
+}
+
+.c-loader-container > h4 {
+  margin-top: 5px;
+}
+
+.c-loader {
+  animation: is-rotating 1s infinite;
+  border: 6px solid #e5e5e5;
+  border-radius: 50%;
+  border-top-color: #51d4db;
+  height: 50px;
+  width: 50px;
+}
+
+@keyframes is-rotating {
+  to {
+    transform: rotate(1turn);
+  }
+}
